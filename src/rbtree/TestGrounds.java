@@ -3,7 +3,7 @@ package rbtree;
 public class TestGrounds {
 //Testing class
 	public static void main(String[] args) {
-//		Integer ar = new Integer[](53,90,89,62,75,38,70,36,52,32);
+
 		
 		
 		RedBlackTree<Integer> rb = new RedBlackTree<Integer>();
